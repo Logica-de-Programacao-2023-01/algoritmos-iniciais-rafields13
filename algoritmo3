@@ -1,0 +1,9 @@
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de 
+números.
+
+1: leia x 
+2: leia y 
+3: leia z 
+4: soma = x + y + z 
+5: escreva soma
+6: media = soma / 3

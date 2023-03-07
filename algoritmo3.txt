@@ -1,10 +1,10 @@
 Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de 
 números.
 
-1: solicitar a lista de números
-2: inicializar a variável soma com 0
-3: para cada número da lista faça:
-3.1: adicione o número a variável soma
-4: calcule a média dividindo a variável soma pelo tamanho da
-lista
-5. exiba o resultado da média
+1: leia lista
+2: leia tamanho_lista
+3: var soma = 0
+4: para cada elemento da lista faça:
+5: soma = elemento + soma
+6: media = soma / tamanho_lista
+7: escreva media

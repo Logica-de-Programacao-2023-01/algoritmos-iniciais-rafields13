@@ -1,0 +1,7 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+
+1: leia x
+2: faça opções as quais o interator possa escolher uma potência para elevar x
+3: leia o novo x
+4: faça o cálculo do novo x ('x elevado a n poteência')
+5: escreva o resultado do cálculo efetudado

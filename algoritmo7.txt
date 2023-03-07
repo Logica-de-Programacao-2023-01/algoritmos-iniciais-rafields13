@@ -1,0 +1,7 @@
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+
+1: leia x
+2: se x é somente divisívil por 1 e por ele mesmo
+3: escreva('{x} é número primo')
+4: senão
+5: escreva('{x} não é número primo')

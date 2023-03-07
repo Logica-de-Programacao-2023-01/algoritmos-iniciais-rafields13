@@ -1,11 +1,11 @@
 Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em 
 Celsius para Fahrenheit ou vice-versa.
 
-1: Leia x 
-1.1: Leia unidade
-2: Se estiver em graus fahrenheit
-3: soma = (x - 32) / 1.8 
-3.1: escreva soma 
-4: Senão 
-5: soma = (x * 1.8) + 32 
-6: escreva soma
+1: leia temperatura 
+2: leia unidade
+3: se estiver em graus fahrenheit
+4: soma = (x - 32) / 1.8 
+5: escreva soma 
+6: senão 
+7: soma = (x * 1.8) + 32 
+8: escreva soma

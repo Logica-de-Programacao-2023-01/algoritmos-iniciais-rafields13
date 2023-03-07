@@ -1,0 +1,9 @@
+Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+
+1: leia o valor do empréstimo; x
+2: leia o valor do juros compostos; y% / a.m
+3: faça o seguinte cálculo -> valor da primeira parcela = x + (y% * x)
+4: valor da segunda parcela = valor da primeira parcela + (y% * valor da primeira parcela)
+5: valor da terceira parcela = valor da segunda parcela + (y% * valor da segunda parcela)
+6: e assim sucessivamente
+7: escreva o valor final dependendo do tempo de parcelamento

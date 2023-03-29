@@ -3,9 +3,9 @@ Celsius para Fahrenheit ou vice-versa.
 
 1: leia temperatura 
 2: leia unidade
-3: se estiver em graus fahrenheit
+3: se estiver em graus fahrenheit faça
 4: soma = (x - 32) / 1.8 
 5: escreva soma 
-6: senão 
+6: senão faça
 7: soma = (x * 1.8) + 32 
 8: escreva soma
